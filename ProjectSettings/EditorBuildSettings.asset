@@ -10,4 +10,5 @@ EditorBuildSettings:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 6ca0c5047dcdc094db7baf6cf218d9a1, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: a3f9e0210820b5449b9a6ee7562cb1dd, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8b098b46a7d21284aa5c96aaa84bf034, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: b65a3a671187acf4b82fa49805a0b8df, type: 2}
     xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 0c32df83ab10acc47aeb07659d27e032, type: 2}
