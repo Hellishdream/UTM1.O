@@ -1,35 +1,28 @@
-using Oculus.Interaction;
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class snap_animation : MonoBehaviour
 {
-    public Animator animator;
-    public string animationTriggerName = "SnapAnimation";
-    private SnapInteractor snapInteractor;
+    [SerializeField] private Animator snap_animator;
+    [SerializeField] private GameObject snap_target;
+    [SerializeField] private bool openTrigger = false;
 
-    private void Start()
+    private const string SNAP_ANIMATION_NAME = "snap_animations";
+    private void OnTriggerEnter(Collider other)
     {
-        // Get the SnapInteractor component
-        snapInteractor = GetComponent<SnapInteractor>();
-
-        // Subscribe to the WhenSelectingInteractable event
-        snapInteractor.WhenSelectingInteractable += OnSnap;
-    }
-
-    private void OnSnap(SnapInteractable snapInteractable)
-    {
-        // Trigger the animation when snapping occurs
-        animator.SetTrigger(animationTriggerName);
-    }
-
-    private void OnDestroy()
-    {
-        // Unsubscribe from the event when the object is destroyed
-        if (snapInteractor != null)
+        if (snap_target != null && openTrigger && other.gameObject == snap_target)
         {
-            snapInteractor.WhenSelectingInteractable -= OnSnap;
+            if (openTrigger)
+            {
+                snap_animator.Play(SNAP_ANIMATION_NAME, 0, 0.0f);
+                Debug.Log("Animation is triggered");
+
+            }
+
         }
+
+
     }
 }
