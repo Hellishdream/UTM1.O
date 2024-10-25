@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Varun_work\\UTM1.0\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4153771E-D0C4-BF17-34F0-EFCAB4B9829C}|Assembly-CSharp.csproj|c:\\varun_work\\utm1.0\\assets\\cyberpunk-blade\\grablogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4153771E-D0C4-BF17-34F0-EFCAB4B9829C}|Assembly-CSharp.csproj|solutionrelative:assets\\cyberpunk-blade\\grablogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4153771E-D0C4-BF17-34F0-EFCAB4B9829C}|Assembly-CSharp.csproj|c:\\varun_work\\utm1.0\\assets\\cyberpunk-blade\\snap_animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4153771E-D0C4-BF17-34F0-EFCAB4B9829C}|Assembly-CSharp.csproj|solutionrelative:assets\\cyberpunk-blade\\snap_animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GrabLogger.cs",
+              "DocumentMoniker": "C:\\Varun_work\\UTM1.0\\Assets\\cyberpunk-blade\\GrabLogger.cs",
+              "RelativeDocumentMoniker": "Assets\\cyberpunk-blade\\GrabLogger.cs",
+              "ToolTip": "C:\\Varun_work\\UTM1.0\\Assets\\cyberpunk-blade\\GrabLogger.cs",
+              "RelativeToolTip": "Assets\\cyberpunk-blade\\GrabLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:22:38.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "snap_animation.cs",
               "DocumentMoniker": "C:\\Varun_work\\UTM1.0\\Assets\\cyberpunk-blade\\snap_animation.cs",
               "RelativeDocumentMoniker": "Assets\\cyberpunk-blade\\snap_animation.cs",
@@ -39,20 +56,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SnapInteractor.cs",
               "DocumentMoniker": "C:\\Varun_work\\UTM1.0\\Library\\PackageCache\\com.meta.xr.sdk.interaction@68.0.2\\Runtime\\Scripts\\Interaction\\Models\\Snap\\SnapInteractor.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.meta.xr.sdk.interaction@68.0.2\\Runtime\\Scripts\\Interaction\\Models\\Snap\\SnapInteractor.cs",
               "ToolTip": "C:\\Varun_work\\UTM1.0\\Library\\PackageCache\\com.meta.xr.sdk.interaction@68.0.2\\Runtime\\Scripts\\Interaction\\Models\\Snap\\SnapInteractor.cs",
               "RelativeToolTip": "Library\\PackageCache\\com.meta.xr.sdk.interaction@68.0.2\\Runtime\\Scripts\\Interaction\\Models\\Snap\\SnapInteractor.cs",
-              "ViewState": "AQIAAF8BAAAAAAAAAAAswLIBAAAAAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAUwLIBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T16:34:48.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Interactable.cs",
               "DocumentMoniker": "C:\\Varun_work\\UTM1.0\\Library\\PackageCache\\com.meta.xr.sdk.interaction@68.0.2\\Runtime\\Scripts\\Interaction\\Core\\Interactable.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.meta.xr.sdk.interaction@68.0.2\\Runtime\\Scripts\\Interaction\\Core\\Interactable.cs",
@@ -60,8 +77,7 @@
               "RelativeToolTip": "Library\\PackageCache\\com.meta.xr.sdk.interaction@68.0.2\\Runtime\\Scripts\\Interaction\\Core\\Interactable.cs",
               "ViewState": "AQIAABsBAAAAAAAAAAAswDwBAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T12:59:52.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T12:59:52.478Z"
             }
           ]
         }
