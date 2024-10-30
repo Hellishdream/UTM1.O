@@ -477,6 +477,8 @@
 "Assets/scripts/GazeInteraction.cs"
 "Assets/scripts/HandMenuController.cs"
 "Assets/scripts/HandVisibilityController.cs"
+"Assets/scripts/vernier display/verier_diameterscript.cs"
+"Assets/scripts/vernier display/vernier_lengthscript.cs"
 "Assets/SnapInteractionAssets/Scripts/SnapInteractableVisuals.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
