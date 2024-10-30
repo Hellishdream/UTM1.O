@@ -457,7 +457,6 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/VoiceSDK.Telemetry.ref.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.47f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.47f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
-"Assets/cyberpunk-blade/GrabLogger.cs"
 "Assets/cyberpunk-blade/snap_animation.cs"
 "Assets/metarig prefabs/PanelWithManipulators/AnchoredWorldSpaceDistanceScaler.cs"
 "Assets/metarig prefabs/PanelWithManipulators/ArcAffordanceController.cs"
